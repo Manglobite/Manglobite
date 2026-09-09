@@ -1,16 +1,33 @@
-## Hi there 👋
+# Manglobite
 
-<!--
-**Manglobite/Manglobite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Карта моих репозиториев. GitHub не поддерживает вложенные репозитории, поэтому структура разбита на категории.
 
-Here are some ideas to get you started:
+## Инструменты для OpenCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Репозиторий | Описание |
+|---|---|
+| [opencode-safe-curl](https://github.com/Manglobite/opencode-safe-curl) | HTTP-запросы без shell-выполнения. Блокирует приватные IP и metadata-эндпоинты, защита от SSRF |
+| [opencode-git-readonly](https://github.com/Manglobite/opencode-git-readonly) | Read-only инспекция Git-worktree по фиксированному allowlist операций. Для агентов вне репозитория |
+| [opencode-gitlab-readonly](https://github.com/Manglobite/opencode-gitlab-readonly) | Read-only доступ к GitLab REST API: MR, пайплайны, диффы, комментарии |
+| [opencode-postgresql-readonly](https://github.com/Manglobite/opencode-postgresql-readonly) | Выполнение только SELECT-запросов к Postgres |
+| [opencode-confluence-fetch](https://github.com/Manglobite/opencode-confluence-fetch) | Получение страниц Confluence по page_id через REST API |
+| [opencode-speca-fetch](https://github.com/Manglobite/opencode-speca-fetch) | Загрузка OpenAPI-спецификаций из speca.io |
+| [opencode-agent-browser-tool](https://github.com/Manglobite/opencode-agent-browser-tool) | Браузерная автоматизация для агентов: navigate, snapshot, click, type, eval и др. Docker + Chrome, PAC-прокси |
+
+## Плагины
+
+| Репозиторий | Описание | Скриншот |
+|---|---|---|
+| [opencode-token-bar-plugin](https://github.com/Manglobite/opencode-token-bar-plugin) | Панель статистики токенов над промптом OpenCode: агрегация по дереву сессий, hit-rate кэша, активное время | <img src="screens/opencode-token-bar-plugin.png" width="400" alt="opencode-token-bar-plugin"> |
+
+## Установка
+
+Каждый репозиторий самостоятелен, инструкция — в его README:
+
+```bash
+git clone https://github.com/Manglobite/<имя-репозитория>.git
+```
+
+---
+
+<p align="center">🤖⚙️ <b>Сделано с агентами для агентов</b> 🤖⚙️</p>
