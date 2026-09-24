@@ -19,14 +19,6 @@
 | [opencode-token-bar-plugin](https://github.com/Manglobite/opencode-token-bar-plugin) | Панель статистики токенов над промптом OpenCode: агрегация по дереву сессий, hit-rate кэша, активное время |
 | | <p align="center"><img src="screens/opencode-token-bar-plugin.png" width="700" alt="opencode-token-bar-plugin"></p> |
 
-## Установка
-
-Каждый репозиторий самостоятелен, инструкция — в его README:
-
-```bash
-git clone https://github.com/Manglobite/<имя-репозитория>.git
-```
-
 ---
 
 ## Исследования инференса
@@ -42,5 +34,14 @@ git clone https://github.com/Manglobite/<имя-репозитория>.git
 |---|---|
 | [cmp50HX "tuning"](https://github.com/Manglobite/inference-cmp50-tuning) | Исследование производительности инференса на видеокартах CMP50HX |
 
+---
+
+## Установка
+
+Каждый репозиторий самостоятелен, инструкция — в его README:
+
+```bash
+git clone https://github.com/Manglobite/<имя-репозитория>.git
+```
 
 <p align="center">🤖⚙️ <b>Сделано с агентами для агентов и людей</b> 🤖⚙️</p>
