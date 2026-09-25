@@ -19,6 +19,12 @@
 | [opencode-token-bar-plugin](https://github.com/Manglobite/opencode-token-bar-plugin) | Панель статистики токенов над промптом OpenCode: агрегация по дереву сессий, hit-rate кэша, активное время |
 | | <p align="center"><img src="screens/opencode-token-bar-plugin.png" width="700" alt="opencode-token-bar-plugin"></p> |
 
+## Агенты
+
+| Репозиторий | Описание |
+|---|---|
+|[opencode-agent-session-analize](https://github.com/Manglobite/agents-session-analize)| Анализ сессии  и советы по правкам промтов/разбивки агентов на сабагентов |
+
 ---
 
 ## Исследования инференса
