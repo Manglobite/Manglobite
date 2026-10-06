@@ -43,6 +43,7 @@
 | Репозиторий | Описание |
 |---|---|
 | [cmp50HX "tuning"](https://github.com/Manglobite/inference-cmp50-tuning) | Исследование производительности инференса на видеокартах CMP50HX |
+| [cmp70HX "tuning"](https://github.com/Manglobite/inference-cmp70-tuning) | Мини исследование производительности инференса на видеокартах CMP70HX |
 
 ---
 
