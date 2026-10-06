@@ -37,6 +37,7 @@
 |---|---|---|---|
 | [qwen36-35b-a3b-mtp-q4_k_p](https://github.com/Manglobite/inference-cmp50-rtx2080-qwen36-35b-a3b-mtp-q4_k_p) |  Тесты производительности инференса moe модели qwen36-35b-a3b-mtp-q4_k_p |  Две CMP50HX 10Gb + RTX2080TI 22gb. | Карты подключены через самые простые райзеры pci-e 1x |
 | [MiMo-V2.6-Distill-Qwen-9B](https://github.com/Manglobite/inferece-bench-MiMo-V2.6-Distill-Qwen-9B) | Тесты производительности инференса dence модели MiMo-V2.6-Distill-Qwen-9B | CMP50HX 10gb и RTX2080ti 22gb | Разные варианты запуска Q4, Q8 в нативном модели контексте |
+| [qwen35-4b](https://github.com/Manglobite/inference-bench-qwen3.5-4B) | Тесты производтиельности инференса Qwen3.5 4B | CMP70HX, CMP50HX, RTX2080ti 22gb | без mtp |
 
 ## Повышение производительности инференса
 
